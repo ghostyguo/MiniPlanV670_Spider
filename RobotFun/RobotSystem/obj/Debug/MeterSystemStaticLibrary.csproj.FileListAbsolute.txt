@@ -1,0 +1,27 @@
+D:\ghosty documents\Visual Studio 2010\Projects\CleanEnergy\MeterSystemStaticLibrary\bin\Debug\MeterSystemStaticLibrary.dll
+D:\ghosty documents\Visual Studio 2010\Projects\CleanEnergy\MeterSystemStaticLibrary\bin\Debug\MeterSystemStaticLibrary.pdb
+D:\ghosty documents\Visual Studio 2010\Projects\CleanEnergy\MeterSystemStaticLibrary\obj\Debug\MeterSystemStaticLibrary.dll
+D:\ghosty documents\Visual Studio 2010\Projects\CleanEnergy\MeterSystemStaticLibrary\obj\Debug\MeterSystemStaticLibrary.pdb
+D:\Clean Energy Projects\Visual Studio\CleanEnergy\MeterSystemStaticLibrary\bin\Debug\MeterSystemStaticLibrary.dll
+D:\Clean Energy Projects\Visual Studio\CleanEnergy\MeterSystemStaticLibrary\bin\Debug\MeterSystemStaticLibrary.pdb
+D:\Clean Energy Projects\Visual Studio\CleanEnergy\MeterSystemStaticLibrary\obj\Debug\MeterSystemStaticLibrary.dll
+D:\Clean Energy Projects\Visual Studio\CleanEnergy\MeterSystemStaticLibrary\obj\Debug\MeterSystemStaticLibrary.pdb
+D:\CleanEnergy\Visual Studio 2010\Projects\CleanEnergy\MeterSystemStaticLibrary\bin\Debug\MeterSystemStaticLibrary.dll
+D:\CleanEnergy\Visual Studio 2010\Projects\CleanEnergy\MeterSystemStaticLibrary\bin\Debug\MeterSystemStaticLibrary.pdb
+D:\CleanEnergy\Visual Studio 2010\Projects\CleanEnergy\MeterSystemStaticLibrary\obj\Debug\MeterSystemStaticLibrary.csprojResolveAssemblyReference.cache
+D:\CleanEnergy\Visual Studio 2010\Projects\CleanEnergy\MeterSystemStaticLibrary\obj\Debug\MeterSystemStaticLibrary.dll
+D:\CleanEnergy\Visual Studio 2010\Projects\CleanEnergy\MeterSystemStaticLibrary\obj\Debug\MeterSystemStaticLibrary.pdb
+D:\CleanEnergy\Visual Studio 2010\CleanEnergy\MeterSystemStaticLibrary\bin\Debug\MeterSystemStaticLibrary.dll
+D:\CleanEnergy\Visual Studio 2010\CleanEnergy\MeterSystemStaticLibrary\bin\Debug\MeterSystemStaticLibrary.pdb
+D:\CleanEnergy\Visual Studio 2010\CleanEnergy\MeterSystemStaticLibrary\obj\Debug\MeterSystemStaticLibrary.dll
+D:\CleanEnergy\Visual Studio 2010\CleanEnergy\MeterSystemStaticLibrary\obj\Debug\MeterSystemStaticLibrary.pdb
+D:\My Documents\Visual Studio 2010\Projects\CleanEnergy\MeterSystemStaticLibrary\bin\Debug\MeterSystemStaticLibrary.dll
+D:\My Documents\Visual Studio 2010\Projects\CleanEnergy\MeterSystemStaticLibrary\bin\Debug\MeterSystemStaticLibrary.pdb
+D:\My Documents\Visual Studio 2010\Projects\CleanEnergy\MeterSystemStaticLibrary\obj\Debug\MeterSystemStaticLibrary.dll
+D:\My Documents\Visual Studio 2010\Projects\CleanEnergy\MeterSystemStaticLibrary\obj\Debug\MeterSystemStaticLibrary.pdb
+D:\My Documents\Visual Studio 2010\Projects\CleanEnergy\MeterSystemStaticLibrary\obj\Debug\MeterSystemStaticLibrary.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\RobotFun\MeterSystemStaticLibrary\bin\Debug\MeterSystemStaticLibrary.dll
+D:\My Documents\Visual Studio 2010\Projects\RobotFun\MeterSystemStaticLibrary\bin\Debug\MeterSystemStaticLibrary.pdb
+D:\My Documents\Visual Studio 2010\Projects\RobotFun\MeterSystemStaticLibrary\obj\Debug\MeterSystemStaticLibrary.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\RobotFun\MeterSystemStaticLibrary\obj\Debug\MeterSystemStaticLibrary.dll
+D:\My Documents\Visual Studio 2010\Projects\RobotFun\MeterSystemStaticLibrary\obj\Debug\MeterSystemStaticLibrary.pdb

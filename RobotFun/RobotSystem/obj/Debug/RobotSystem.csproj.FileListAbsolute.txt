@@ -1,0 +1,12 @@
+D:\My Documents\Visual Studio 2010\Projects\RobotFun\MeterSystemStaticLibrary\bin\Debug\RobotSystem.dll
+D:\My Documents\Visual Studio 2010\Projects\RobotFun\MeterSystemStaticLibrary\bin\Debug\RobotSystem.pdb
+D:\My Documents\Visual Studio 2010\Projects\RobotFun\MeterSystemStaticLibrary\obj\Debug\RobotSystem.dll
+D:\My Documents\Visual Studio 2010\Projects\RobotFun\MeterSystemStaticLibrary\obj\Debug\RobotSystem.pdb
+D:\My Documents\Visual Studio 2010\Projects\RobotFun\RobotSystem\obj\Debug\RobotSystem.dll
+D:\My Documents\Visual Studio 2010\Projects\RobotFun\RobotSystem\obj\Debug\RobotSystem.pdb
+D:\My Documents\Visual Studio 2010\Projects\RobotFun\RobotSystem\bin\Debug\RobotSystem.dll
+D:\My Documents\Visual Studio 2010\Projects\RobotFun\RobotSystem\bin\Debug\RobotSystem.pdb
+C:\Users\ghosty\iCloudDrive\Projects\Visual Studio 2010\RobotFun\RobotSystem\bin\Debug\RobotSystem.dll
+C:\Users\ghosty\iCloudDrive\Projects\Visual Studio 2010\RobotFun\RobotSystem\bin\Debug\RobotSystem.pdb
+C:\Users\ghosty\iCloudDrive\Projects\Visual Studio 2010\RobotFun\RobotSystem\obj\Debug\RobotSystem.dll
+C:\Users\ghosty\iCloudDrive\Projects\Visual Studio 2010\RobotFun\RobotSystem\obj\Debug\RobotSystem.pdb
