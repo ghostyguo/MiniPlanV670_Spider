@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.ghostysoft.robotfun.MainActivity"
+    tools:showIn="@layout/activity_main">
+    <TableLayout
+        android:id="@+id/layout_Action"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="120dp"
+        android:background="@drawable/background">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/btnAction1"
+                android:text="Action 1"
+                android:layout_height="60dp"
+                android:layout_marginLeft="30dp"
+                android:layout_width="120dp"
+                android:clickable="false"
+                android:layout_marginTop="20dp"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/btnAction2"
+                android:text="Action 2"
+                android:layout_height="60dp"
+                android:layout_width="120dp"
+                android:layout_marginLeft="50dp"
+                android:clickable="false"
+                android:layout_marginTop="20dp"
+                android:textAllCaps="false" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:text="Action 3"
+                android:layout_width="120dp"
+                android:layout_height="60dp"
+                android:id="@+id/btnAction3"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:clickable="false"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/btnAction4"
+                android:text="Action 4"
+                android:layout_width="120dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="20dp"
+                android:clickable="false"
+                android:textAllCaps="false" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/btnAction5"
+                android:text="Action 5"
+                android:layout_width="120dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:clickable="false"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/btnAction6"
+                android:text="Action 6"
+                android:layout_width="120dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="20dp"
+                android:clickable="false"
+                android:textAllCaps="false" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/btnAction7"
+                android:text="Action 7"
+                android:layout_width="120dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:clickable="false"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/btnAction8"
+                android:text="Action 8"
+                android:layout_width="120dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="20dp"
+                android:clickable="false"
+                android:textAllCaps="false" />
+        </TableRow>
+    </TableLayout>
+
+</android.support.constraint.ConstraintLayout>
